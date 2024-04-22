@@ -1,1 +1,1 @@
-# sc1015project
+# SC1015 Mini Project - Optimizing Shelter Management and Boosting Adoption Rates
