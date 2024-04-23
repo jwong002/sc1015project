@@ -40,18 +40,18 @@ How do we optimize the management of animal shelters and increase adoption rates
 
 2. [Exploratory Data Analysis, Data-Driven Insights and Recommendations](https://github.com/jwong002/sc1015project/blob/main/Exploratory_Data_Analysis.ipynb)
 
-   Step 1: Exploration (Uncovering Patterns)
-   - Data Checkup: Ensuring data is loaded correctly and free of errors. 
-   - Understanding the Data: Analyzing the spread of data for different categories (breeds, outcomes) and numerical values (age, length of stay).
-   - Outlier Patrol: Identifying potential outliers in numerical data that might skew results. 
-   - Variable Connections: Exploring relationships between variables, both numerical (heatmaps) and all data types (pairwise analysis)
-   - Adoption Trends: Specifically examining how adoption rates have changed over time 
+   - Step 1: Exploration (Uncovering Patterns)
+     - Data Checkup: Ensuring data is loaded correctly and free of errors. 
+     - Understanding the Data: Analyzing the spread of data for different categories (breeds, outcomes) and numerical values (age, length of stay).
+     - Outlier Patrol: Identifying potential outliers in numerical data that might skew results. 
+     - Variable Connections: Exploring relationships between variables, both numerical (heatmaps) and all data types (pairwise analysis)
+     - Adoption Trends: Specifically examining how adoption rates have changed over time 
 
-   Step 2: Feature Analysis (Uncovering Insights)
-   - Age and Length of Stay: Analyzing how an animal’s age and time spent at the shelter impact adoption
-   - Intake and Outcome: Exploring the relationship between how animals enter the shelter (stray, surrendered, etc;) and their final outcome (adopted, euthanized, etc;)
-   - Condition and Outcome: Investigating how an animal’s health upon arrival (healthy, injured, etc;) affects their outcome
-   - Multi-Variable Look: Digging deeper to see how length of stay is affected by both intake condition and outcome type
+   - Step 2: Feature Analysis (Uncovering Insights)
+     - Age and Length of Stay: Analyzing how an animal’s age and time spent at the shelter impact adoption
+     - Intake and Outcome: Exploring the relationship between how animals enter the shelter (stray, surrendered, etc;) and their final outcome (adopted, euthanized, etc;)
+     - Condition and Outcome: Investigating how an animal’s health upon arrival (healthy, injured, etc;) affects their outcome
+     - Multi-Variable Look: Digging deeper to see how length of stay is affected by both intake condition and outcome type
 
 3. Machine Learning Techniques to solve the problem
    - Data Preprocessing: 
