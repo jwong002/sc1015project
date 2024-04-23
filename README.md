@@ -32,8 +32,8 @@ How do we optimize the management of animal shelters and increase adoption rates
             -Eliminate redundant columns
             -Identify and address missing values
      - Feature Engineering:
-Derive new features: “Spayed”, “Intact”, and gender based on existing data
-Categorize age into ranges
-Calculate length of stay based on arrival and departure dates. Group durations into intervals. 
-Data Export: Export the cleaned and enriched dataframe to a new CSV file
+            -Derive new features: “Spayed”, “Intact”, and gender based on existing data
+            -Categorize age into ranges
+            -Calculate length of stay based on arrival and departure dates. Group durations into intervals. 
+     - Data Export: Export the cleaned and enriched dataframe to a new CSV file
 
