@@ -38,7 +38,7 @@ How do we optimize the management of animal shelters and increase adoption rates
             Calculate length of stay based on arrival and departure dates. Group durations into intervals. 
    - Data Export: Export the cleaned and enriched dataframe to a new CSV file
 
-2. Exploratory Data Analysis, Data-Driven Insights and Recommendations 
+2. [Exploratory Data Analysis, Data-Driven Insights and Recommendations](https://github.com/jwong002/sc1015project/blob/main/Exploratory_Data_Analysis.ipynb)
 
    Step 1: Exploration (Uncovering Patterns)
    - Data Checkup: Ensuring data is loaded correctly and free of errors. 
@@ -46,3 +46,11 @@ How do we optimize the management of animal shelters and increase adoption rates
    - Outlier Patrol: Identifying potential outliers in numerical data that might skew results. 
    - Variable Connections: Exploring relationships between variables, both numerical (heatmaps) and all data types (pairwise analysis)
    - Adoption Trends: Specifically examining how adoption rates have changed over time 
+
+   Step 2: Feature Analysis (Uncovering Insights)
+   - Age and Length of Stay: Analyzing how an animal’s age and time spent at the shelter impact adoption
+   - Intake and Outcome: Exploring the relationship between how animals enter the shelter (stray, surrendered, etc;) and their final outcome (adopted, euthanized, etc;)
+   - Condition and Outcome: Investigating how an animal’s health upon arrival (healthy, injured, etc;) affects their outcome
+   - Multi-Variable Look: Digging deeper to see how length of stay is affected by both intake condition and outcome type
+
+ 
