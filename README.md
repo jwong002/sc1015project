@@ -24,17 +24,16 @@ How do we optimize the management of animal shelters and increase adoption rates
 ### Walk-Through
 
 1. Data Preparation and Cleaning:
-
-        a) Data Merging: Combine intakes and outcomes datasets into a single one.
-        b) Data Cleaning: 
+        -Data Merging: Combine intakes and outcomes datasets into a single one.
+        -Data Cleaning: 
             -Fix records with inconsistencies
             -Remove irrelevant columns 
             -Assess relevance of date of birth information
             -Eliminate redundant columns
             -Identify and address missing values
-        c) Feature Engineering:
+        -Feature Engineering:
             -Derive new features: “Spayed”, “Intact”, and gender based on existing data
             -Categorize age into ranges
             -Calculate length of stay based on arrival and departure dates. Group durations into intervals. 
-        d) Data Export: Export the cleaned and enriched dataframe to a new CSV file
+        -Data Export: Export the cleaned and enriched dataframe to a new CSV file
 
