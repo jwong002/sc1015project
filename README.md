@@ -60,12 +60,12 @@ How do we optimize the management of animal shelters and increase adoption rates
    - Exploratory Data Analysis (EDA):
    Analyze numerical data using techniques like univariate linear regression  
    - Model Building:
-   Prepare data for machine learning models by handling both numerical and categorical features:
-   Apply general feature selection techniques,
-   train various models including:  
-   a) Decision Trees
-   b) Random Forest 
-   c) Lasso Regression 
-   d) XGBoost 
+      - Prepare data for machine learning models by handling both numerical and categorical features:
+         - Apply general feature selection techniques,
+         - Train various models including:  
+              - Decision Trees
+              - Random Forest 
+              - Lasso Regression 
+              - XGBoost 
 
  
