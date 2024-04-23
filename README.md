@@ -40,9 +40,9 @@ How do we optimize the management of animal shelters and increase adoption rates
 
 2. Exploratory Data Analysis, Data-Driven Insights and Recommendations 
 
-   -Step 1: Exploration (Uncovering Patterns)
-   -Data Checkup: Ensuring data is loaded correctly and free of errors. 
-   -Understanding the Data: Analyzing the spread of data for different categories (breeds, outcomes) and numerical values (age, length of stay).
-   -Outlier Patrol: Identifying potential outliers in numerical data that might skew results. 
-   -Variable Connections: Exploring relationships between variables, both numerical (heatmaps) and all data types (pairwise analysis)
-   -Adoption Trends: Specifically examining how adoption rates have changed over time 
+   - Step 1: Exploration (Uncovering Patterns)
+   - Data Checkup: Ensuring data is loaded correctly and free of errors. 
+   - Understanding the Data: Analyzing the spread of data for different categories (breeds, outcomes) and numerical values (age, length of stay).
+   - Outlier Patrol: Identifying potential outliers in numerical data that might skew results. 
+   - Variable Connections: Exploring relationships between variables, both numerical (heatmaps) and all data types (pairwise analysis)
+   - Adoption Trends: Specifically examining how adoption rates have changed over time 
