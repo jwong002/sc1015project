@@ -103,13 +103,13 @@ By implementing these recommendations and embracing a data-driven approach, anim
 - Kwok Xin Tzi Ellis: Data Cleaning, Exploratory Data Analysis, Data Driven Insights and Recommendations, Machine Learning, Presentation Slides and Script, Video
 
 ### References
-1. Data-to-Viz
-2. Outliers: Keep or Drop
-3. Guidelines for removing outliers
-4. Regularization in Machine Learning
-5. Random Forest Regression 
-6. Lasso Regression
-7. Introduction to XGBoost Algorithm
-8. XGBoost Algorithm
-9. Exploratory Data Analysis : A Beginners Guide To Perform EDA
+1. [Data-to-Viz](https://www.data-to-viz.com/)
+2. [Outliers: Keep or Drop](https://towardsdatascience.com/outliers-keep-or-drop-892b599b8ab6)
+3. [Guidelines for removing outliers](https://statisticsbyjim.com/basics/remove-outliers/)
+4. [Regularization in Machine Learning](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
+5. [Random Forest Regression](https://towardsdatascience.com/random-forest-regression-5f605132d19d) 
+6. [Lasso Regression](https://www.mygreatlearning.com/blog/understanding-of-lasso-regression/#:~:text=Lasso%20regression%20is%20a%20regularization,i.e.%20models%20with%20fewer%20parameters)
+7. [Introduction to XGBoost Algorithm](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
+8. [XGBoost Algorithm](https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d)
+9. [Exploratory Data Analysis : A Beginners Guide To Perform EDA}(https://www.analyticsvidhya.com/blog/2021/06/exploratory-data-analysis-a-beginners-guide-to-perform-eda/)
 
