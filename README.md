@@ -27,7 +27,7 @@ How do we optimize the management of animal shelters and increase adoption rates
    
    - Data Merging: Combine intakes and outcomes datasets into a single one.
    - Data Cleaning: 
-            Fix records with inconsistencies,
+     - Fix records with inconsistencies,
             remove irrelevant columns, 
             assess relevance of date of birth information,
             eliminate redundant columns,
