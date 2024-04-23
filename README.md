@@ -23,7 +23,8 @@ How do we optimize the management of animal shelters and increase adoption rates
 
 ### Walk-Through
 
-1. Data Preparation and Cleaning
+1. Data Preparation and Cleaning:
+
         a) Data Merging: Combine intakes and outcomes datasets into a single one.
         b) Data Cleaning: 
             -Fix records with inconsistencies
