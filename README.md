@@ -55,10 +55,10 @@ How do we optimize the management of animal shelters and increase adoption rates
 
 3. Machine Learning Techniques to solve the problem
    - Data Preprocessing: 
-   Verify data types and convert them for analysis (e.g. dates to numerical format),
-   remove rows with missing values (NaN) after conversion 
+      - Verify data types and convert them for analysis (e.g. dates to numerical format)
+      - Remove rows with missing values (NaN) after conversion 
    - Exploratory Data Analysis (EDA):
-   Analyze numerical data using techniques like univariate linear regression  
+      - Analyze numerical data using techniques like univariate linear regression  
    - Model Building:
       - Prepare data for machine learning models by handling both numerical and categorical features:
          - Apply general feature selection techniques,
