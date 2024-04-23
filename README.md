@@ -53,7 +53,7 @@ How do we optimize the management of animal shelters and increase adoption rates
      - Condition and Outcome: Investigating how an animal’s health upon arrival (healthy, injured, etc;) affects their outcome
      - Multi-Variable Look: Digging deeper to see how length of stay is affected by both intake condition and outcome type
 
-3. Machine Learning Techniques to solve the problem
+3. [Machine Learning Techniques to solve the problem](https://github.com/jwong002/sc1015project/blob/main/Machine_Learning.ipynb)
    - Data Preprocessing: 
       - Verify data types and convert them for analysis (e.g. dates to numerical format)
       - Remove rows with missing values (NaN) after conversion 
@@ -61,7 +61,7 @@ How do we optimize the management of animal shelters and increase adoption rates
       - Analyze numerical data using techniques like univariate linear regression  
    - Model Building:
       - Prepare data for machine learning models by handling both numerical and categorical features:
-         - Apply general feature selection techniques,
+         - Apply general feature selection techniques
          - Train various models including:  
               - Decision Trees
               - Random Forest 
