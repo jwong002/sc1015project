@@ -111,5 +111,5 @@ By implementing these recommendations and embracing a data-driven approach, anim
 6. [Lasso Regression](https://www.mygreatlearning.com/blog/understanding-of-lasso-regression/#:~:text=Lasso%20regression%20is%20a%20regularization,i.e.%20models%20with%20fewer%20parameters)
 7. [Introduction to XGBoost Algorithm](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
 8. [XGBoost Algorithm](https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d)
-9. [Exploratory Data Analysis : A Beginners Guide To Perform EDA}(https://www.analyticsvidhya.com/blog/2021/06/exploratory-data-analysis-a-beginners-guide-to-perform-eda/)
+9. [Exploratory Data Analysis : A Beginners Guide To Perform EDA](https://www.analyticsvidhya.com/blog/2021/06/exploratory-data-analysis-a-beginners-guide-to-perform-eda/)
 
