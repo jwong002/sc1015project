@@ -22,7 +22,6 @@ How do we optimize the management of animal shelters and increase adoption rates
 - Video can be assessed from this link (insert link)
 
 ### Walk-Through
-
 1. [Data Preparation and Cleaning](https://github.com/jwong002/sc1015project/blob/main/Data_Preparation_Cleaning.ipynb)
    
    - Data Merging: Combine intakes and outcomes datasets into a single one.
@@ -69,7 +68,6 @@ How do we optimize the management of animal shelters and increase adoption rates
               - XGBoost
                 
 ### Conclusion
-
 Empowering Shelters to Save More Lives
 
 This study has shed light on several key areas where animal shelters can focus their efforts to improve adoption rates and overall animal welfare.
@@ -93,11 +91,14 @@ Resource allocation for impact:  Data-driven resource allocation allows shelters
 By implementing these recommendations and embracing a data-driven approach, animal shelters can create a brighter future for countless animals, ensuring they find loving homes and the happy lives they deserve.
 
 ### Key Learning Points
-
 - Feature Engineering (deriving new features, categorizing age into ranges, calculating length of stay)
 - Using Plotly as a tool for interactive visualization 
 - Performing ANOVA test for feature selection
 - Using 3D and 2D Scatter Plots for Actual vs Predicted Values 
 - Implementation of XGBoost, Lasso Regression, Random Forest Regressor and Cross Validation
-
+  
+### Contributors
+- Jeannie Wong Yi Lin: Data Cleaning, Exploratory Data Analysis, Data Driven Insights and Recommendations, Machine Learning, Presentation Slides and Script, Video
+- Jiao Yunqi: Data Cleaning, Exploratory Data Analysis, Data Driven Insights and Recommendations, Machine Learning, Presentation Slides and Script, Video
+- Kwok Xin Tzi Ellis: Data Cleaning, Exploratory Data Analysis, Data Driven Insights and Recommendations, Machine Learning, Presentation Slides and Script, Video
 
