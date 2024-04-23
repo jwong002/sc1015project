@@ -28,14 +28,14 @@ How do we optimize the management of animal shelters and increase adoption rates
    - Data Merging: Combine intakes and outcomes datasets into a single one.
    - Data Cleaning: 
             Fix records with inconsistencies,
-            Remove irrelevant columns, 
-            Assess relevance of date of birth information,
-            Eliminate redundant columns,
-            Identify and address missing values
+            remove irrelevant columns, 
+            assess relevance of date of birth information,
+            eliminate redundant columns,
+            identify and address missing values
    - Feature Engineering:
             Derive new features: “Spayed”, “Intact”, and gender based on existing data,
-            Categorize age into ranges,
-            Calculate length of stay based on arrival and departure dates. Group durations into intervals. 
+            categorize age into ranges,
+            calculate length of stay based on arrival and departure dates, group durations into intervals. 
    - Data Export: Export the cleaned and enriched dataframe to a new CSV file
 
 2. [Exploratory Data Analysis, Data-Driven Insights and Recommendations](https://github.com/jwong002/sc1015project/blob/main/Exploratory_Data_Analysis.ipynb)
@@ -52,5 +52,21 @@ How do we optimize the management of animal shelters and increase adoption rates
    - Intake and Outcome: Exploring the relationship between how animals enter the shelter (stray, surrendered, etc;) and their final outcome (adopted, euthanized, etc;)
    - Condition and Outcome: Investigating how an animal’s health upon arrival (healthy, injured, etc;) affects their outcome
    - Multi-Variable Look: Digging deeper to see how length of stay is affected by both intake condition and outcome type
+
+3. Machine Learning Techniques to solve the problem
+   - Data Preprocessing: 
+   Verify data types and convert them for analysis (e.g. dates to numerical format),
+   remove rows with missing values (NaN) after conversion 
+   - Exploratory Data Analysis (EDA):
+   Analyze numerical data using techniques like univariate linear regression  
+   - Model Building:
+                              -    Prepare data for machine learning models by handling both numerical 
+                                   and categorical features:
+                             -     Apply general feature selection techniques
+                             -     Train various models including:  
+                                    a) Decision Trees
+                                    b) Random Forest 
+                                    c) Lasso Regression 
+                                    d) XGBoost 
 
  
