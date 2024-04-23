@@ -92,3 +92,12 @@ Resource allocation for impact:  Data-driven resource allocation allows shelters
 
 By implementing these recommendations and embracing a data-driven approach, animal shelters can create a brighter future for countless animals, ensuring they find loving homes and the happy lives they deserve.
 
+### Key Learning Points
+
+- Feature Engineering (deriving new features, categorizing age into ranges, calculating length of stay)
+- Using Plotly as a tool for interactive visualization 
+- Performing ANOVA test for feature selection
+- Using 3D and 2D Scatter Plots for Actual vs Predicted Values 
+- Implementation of XGBoost, Lasso Regression, Random Forest Regressor and Cross Validation
+
+
