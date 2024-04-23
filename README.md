@@ -27,15 +27,15 @@ How do we optimize the management of animal shelters and increase adoption rates
    
    - Data Merging: Combine intakes and outcomes datasets into a single one.
    - Data Cleaning: 
-     - Fix records with inconsistencies,
-            remove irrelevant columns, 
-            assess relevance of date of birth information,
-            eliminate redundant columns,
-            identify and address missing values
+     - Fix records with inconsistencies
+     - Remove irrelevant columns 
+     - Assess relevance of date of birth information
+     - Eliminate redundant columns
+     - Identify and address missing values
    - Feature Engineering:
-            Derive new features: “Spayed”, “Intact”, and gender based on existing data,
-            categorize age into ranges,
-            calculate length of stay based on arrival and departure dates, group durations into intervals. 
+      - Derive new features: “Spayed”, “Intact”, and gender based on existing data,
+      - Categorize age into ranges,
+      - Calculate length of stay based on arrival and departure dates, group durations into intervals. 
    - Data Export: Export the cleaned and enriched dataframe to a new CSV file
 
 2. [Exploratory Data Analysis, Data-Driven Insights and Recommendations](https://github.com/jwong002/sc1015project/blob/main/Exploratory_Data_Analysis.ipynb)
