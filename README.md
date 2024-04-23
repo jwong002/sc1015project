@@ -102,3 +102,14 @@ By implementing these recommendations and embracing a data-driven approach, anim
 - Jiao Yunqi: Data Cleaning, Exploratory Data Analysis, Data Driven Insights and Recommendations, Machine Learning, Presentation Slides and Script, Video
 - Kwok Xin Tzi Ellis: Data Cleaning, Exploratory Data Analysis, Data Driven Insights and Recommendations, Machine Learning, Presentation Slides and Script, Video
 
+### References
+1. Data-to-Viz
+2. Outliers: Keep or Drop
+3. Guidelines for removing outliers
+4. Regularization in Machine Learning
+5. Random Forest Regression 
+6. Lasso Regression
+7. Introduction to XGBoost Algorithm
+8. XGBoost Algorithm
+9. Exploratory Data Analysis : A Beginners Guide To Perform EDA
+
