@@ -18,7 +18,7 @@ How do we optimize the management of animal shelters and increase adoption rates
 - [Original Dataset (intakes)](https://github.com/jwong002/sc1015project/blob/main/Austin_Animal_Center_Intakes_20240327.csv)
 - [Original Dataset (outcomes)](https://github.com/jwong002/sc1015project/blob/main/Austin_Animal_Center_Outcomes_20240327.csv)
 - [Cleaned and Merged Dataset](https://github.com/jwong002/sc1015project/blob/main/train_cleaned.csv)
-- Presentation Slides (insert link)
+- [Presentation Slides](https://github.com/jwong002/sc1015project/blob/main/FCCA_Team8_MiniProjectSlides.pdf)
 - Video can be assessed from this link (insert link)
 
 ### Walk-Through
